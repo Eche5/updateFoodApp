@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodapp/static/css/main.11173830.css",
+    "main.js": "/foodapp/static/js/main.2c359f23.js",
+    "static/media/spaghetti-bolognese-32-1024x1536.jpg": "/foodapp/static/media/spaghetti-bolognese-32-1024x1536.ce9cf46cda4cde10794d.jpg",
+    "static/media/caribbean-rice-beans-shrimp-1.jpg.webp": "/foodapp/static/media/caribbean-rice-beans-shrimp-1.jpg.dd8f9be8db81e7ea8a2a.webp",
+    "static/media/intro-1654286969.webp": "/foodapp/static/media/intro-1654286969.0064ca7cd94b8ddf506e.webp",
+    "index.html": "/foodapp/index.html",
+    "main.11173830.css.map": "/foodapp/static/css/main.11173830.css.map",
+    "main.2c359f23.js.map": "/foodapp/static/js/main.2c359f23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11173830.css",
+    "static/js/main.2c359f23.js"
+  ]
+}
